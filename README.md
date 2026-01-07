@@ -13,10 +13,10 @@ The three assignments explore how computer vision can be used to extract orienta
 ---
 
 ### 🟢 HW1 — Vision-Based Angle Estimation & Simulated Control
-Goal:
+**Goal:** 
 Control the orientation of the Quanser Aero 2 using only two images: an initial position and a target position.
 
-What it does:
+**What it does:**
 
 - Detects yellow rotor markers using image processing.
 
@@ -26,7 +26,7 @@ What it does:
 
 - Simulates the system dynamics using a simplified second-order model in Python.
 
-Key ideas:
+**Key ideas:**
 
 - Vision-based angle estimation
 
@@ -34,15 +34,15 @@ Key ideas:
 
 - Offline simulation of drone dynamics
 
-Outcome:  
+**Outcome:**  
 A proportional controller was sufficient to drive the system to the desired orientation in simulation, validating the vision-to-control pipeline.
 
 ### 🟡 HW2 — Real-Time Vision Control of a Simulated Aero 2
 
-Goal:  
+**Goal:**   
 Control a digital twin of the Quanser Aero 2 in Simulink using real-time visual feedback from a camera.
 
-What it does:
+**What it does:**    
 
 - Tracks yellow rotor markers from a live camera or video using OpenCV.
 
@@ -52,7 +52,7 @@ What it does:
 
 - Simulink applies a PID controller to the Aero 2 simulation using QUARC.
 
-System architecture:
+**System architecture:**  
 
 - Python: vision processing + angle extraction
 
@@ -60,7 +60,7 @@ System architecture:
 
 - Simulink + QUARC: control and simulation
 
-Outcome:  
+**Outcome:**    
 The simulated Aero 2 successfully follows the orientation observed by the camera, demonstrating closed-loop visual control with networked communication.
 
 ### 🔴 HW3 — Real-Time Visual Control Between Two Aero 2 Systems

@@ -35,7 +35,7 @@ Control the orientation of the Quanser Aero 2 using only two images: an initial 
 **Outcome:**  
 A proportional controller was sufficient to drive the system to the desired orientation in simulation, validating the vision-to-control pipeline.
 
-<img width="1519" height="655" alt="image" src="https://github.com/user-attachments/assets/a6dcf79d-cd6f-43d0-a92f-170c69229f8a" />
+<img src="https://github.com/user-attachments/assets/a6dcf79d-cd6f-43d0-a92f-170c69229f8a" width="500" />
 
 ---
 
@@ -64,8 +64,9 @@ Control a digital twin of the Quanser Aero 2 in Simulink using real-time visual 
 The simulated Aero 2 successfully follows the orientation observed by the camera, demonstrating closed-loop visual control with networked communication.
 
 <p align="center">
-  <img width="800" alt="HW2 – Real-Time Vision Control Demo" src="https://github.com/user-attachments/assets/454832c9-fd30-4368-aff2-74d3bcd6a502" />
+  <img src="https://github.com/user-attachments/assets/454832c9-fd30-4368-aff2-74d3bcd6a502" width="500" />
 </p>
+
 
 🔗 **Watch the full demonstration:**  
 https://drive.google.com/file/d/1FWcYRiCcNFb9V74LbIeGihvQPLKtQtmz/view
@@ -98,7 +99,7 @@ Achieve real-time visual servoing, where one physical Aero 2 controls another Ae
 **Outcome:**   
 The system successfully mirrors the motion of one Aero 2 onto another using visual feedback, completing the transition from simulation to real-time visual control.
 
-<img width="1909" height="943" alt="image" src="https://github.com/user-attachments/assets/c76ca1af-a7ca-4148-8f4b-c75a75f3b725" />
+<img src="https://github.com/user-attachments/assets/c76ca1af-a7ca-4148-8f4b-c75a75f3b725" width="500" />
 
 **Video 1 — Demonstration**  
 https://drive.google.com/file/d/1a_ONRb7i0FquhPSJcoT8xzVc6wUX4gTV/view

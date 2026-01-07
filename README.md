@@ -95,7 +95,15 @@ Achieve real-time visual servoing, where one physical Aero 2 controls another Ae
 
 - Real-time vision-to-control integration
 
-Outcome:  
+**Outcome:**   
 The system successfully mirrors the motion of one Aero 2 onto another using visual feedback, completing the transition from simulation to real-time visual control.
+
+<img width="1909" height="943" alt="image" src="https://github.com/user-attachments/assets/c76ca1af-a7ca-4148-8f4b-c75a75f3b725" />
+
+**Video 1 — Demonstration**  
+https://drive.google.com/file/d/1a_ONRb7i0FquhPSJcoT8xzVc6wUX4gTV/view
+
+**Video 2 — Demonstration**  
+https://drive.google.com/file/d/1xLLF_55Jinjkkq5LIVrdSpuBESURVIcC/view
 
 

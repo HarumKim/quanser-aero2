@@ -38,6 +38,7 @@ A proportional controller was sufficient to drive the system to the desired orie
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a6dcf79d-cd6f-43d0-a92f-170c69229f8a" width="500" />
 </p>
+
 ---
 
 ### 🟡 HW2 — Real-Time Vision Control of a Simulated Aero 2

@@ -37,6 +37,8 @@ A proportional controller was sufficient to drive the system to the desired orie
 
 <img width="1519" height="655" alt="image" src="https://github.com/user-attachments/assets/a6dcf79d-cd6f-43d0-a92f-170c69229f8a" />
 
+---
+
 ### 🟡 HW2 — Real-Time Vision Control of a Simulated Aero 2
 
 **Goal:**   
@@ -61,10 +63,14 @@ Control a digital twin of the Quanser Aero 2 in Simulink using real-time visual 
 **Outcome:**    
 The simulated Aero 2 successfully follows the orientation observed by the camera, demonstrating closed-loop visual control with networked communication.
 
-### 🎥 Video Demonstration
+<p align="center">
+  <img width="800" alt="HW2 – Real-Time Vision Control Demo" src="https://github.com/user-attachments/assets/454832c9-fd30-4368-aff2-74d3bcd6a502" />
+</p>
 
-[![HW2 – Real-Time Vision Control Demo](https://github.com/user-attachments/assets/abcd1234-5678)](https://drive.google.com/file/d/1FWcYRiCcNFb9V74LbIeGihvQPLKtQtmz/view)
+🔗 **Watch the full demonstration:**  
+https://drive.google.com/file/d/1FWcYRiCcNFb9V74LbIeGihvQPLKtQtmz/view
 
+---
 
 ### 🔴 HW3 — Real-Time Visual Control Between Two Aero 2 Systems
 
@@ -91,3 +97,5 @@ Achieve real-time visual servoing, where one physical Aero 2 controls another Ae
 
 Outcome:  
 The system successfully mirrors the motion of one Aero 2 onto another using visual feedback, completing the transition from simulation to real-time visual control.
+
+
